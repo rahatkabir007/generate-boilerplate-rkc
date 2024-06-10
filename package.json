@@ -1,0 +1,18 @@
+{
+    "bin": {
+        "generate-boilerplate-rkc": "./index.js"
+    },
+    "name": "generate-boilerplate-rkc",
+    "version": "1.0.0",
+    "description": "A CLI tool to install react express nest boilerplate",
+    "scripts": {
+        "start": "node ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "author": "Rahat Kabir",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^7.0.0"
+    }
+}
