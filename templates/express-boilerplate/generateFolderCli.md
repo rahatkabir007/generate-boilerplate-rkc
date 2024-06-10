@@ -5,4 +5,4 @@ on your terminal type these commands one by one for the first time
 2) chmod +x ./bin/cli.js
 3) npm link
 4) express-cli generate <name> 
-(example: "generate users", name should be in plural term)
+(example: "express-cli generate users", name should be in plural term)
