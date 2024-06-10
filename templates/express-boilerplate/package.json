@@ -5,7 +5,7 @@
   "main": "main.js",
   "type": "module",
   "bin": {
-    "express-cli": "./cli.js"
+    "express-cli": "./bin/cli.js"
   },
   "scripts": {
     "start": "node src/main.js",
