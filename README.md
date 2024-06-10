@@ -1,12 +1,15 @@
 # Generate your own project boilerplate with NodeJS
 
+
+### On Device Locally
+
 ## Clone Repo
 
 ```
-git clone https://github.com/rahatkabir007/boilerplates-cli-rkc
+git clone https://github.com/rahatkabir007/generate-boilerplate-rkc
 ```
 
-## Install Dependncies 
+## Install Dependencies 
 
 ```
 npm install 
@@ -18,10 +21,14 @@ npm install
 npm link 
 ```
 
-## Generate or *boilerplates-cli-rk* new project
+## write *generate-boilerplate-rkc* on cmd to start the process
 
 
-## or use npm i -g boilerplates-cli-rkc
+### Or Install Global NPM package 
+
+```
+npm i -g generate-boilerplate-rkc
+```
 
 
 
