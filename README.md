@@ -30,5 +30,10 @@ npm link
 npm i -g generate-boilerplate-rkc
 ```
 
+### Then Run Command in CMD
+```
+generate-boilerplate-rkc
+```
+
 
 
